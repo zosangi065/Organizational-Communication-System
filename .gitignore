@@ -1,0 +1,17 @@
+# Build output
+target/
+*.class
+*.jar
+
+# Local configuration (contains credentials)
+config.properties
+
+# IDE / OS files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+.DS_Store
+Thumbs.db
